@@ -1,0 +1,9 @@
+export const homePage = 'Home';
+export const enterTitle = 'Enter title';
+export const enterdescription = 'Enter description';
+export const save = 'Save';
+export const cancel = 'Cancel';
+export const add = 'Add';
+export const Delete = 'Delete';
+export const task = 'Task management';
+export const createTask = 'Create Task';
